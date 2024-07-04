@@ -1,2 +1,2 @@
 # Jupyter_notebook
-Create and Share my Jupyter Notebook.
+Create and Share my Jupyter Notebook. Hello, Jupyter
